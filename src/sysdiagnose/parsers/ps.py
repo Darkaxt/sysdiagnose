@@ -4,7 +4,6 @@
 # Script to parse ps.txt to ease parsing
 # Author: david@autopsit.org
 # Improvements: https://linkedin.com/in/josemiguelsoriano
-#
 
 from sysdiagnose.utils.base import BaseParserInterface, logger
 from sysdiagnose.utils.misc import snake_case
